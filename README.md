@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 - 🔭 Building web applications with *MERN Stack*
-- 🌱 Currently learning *AWS*
+- 🌱 Currently learning *TypeScript*
 - 👨‍💻 View my projects on [GitHub](https://github.com/rajhimanshupatel)
 - 💬 Ask me about *React, Node.js, Express & MongoDB*
 - 📫 Reach me at *himanshurajpatel138@gmail.com*
