@@ -10,14 +10,22 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## 💫 About Me
-- 🔭 Building web applications with *MERN Stack*
-- 🌱 Currently learning *TypeScript*
-- 👨‍💻 View my projects on [GitHub](https://github.com/rajhimanshupatel)
-- 💬 Ask me about *React, Node.js, Express & MongoDB*
-- 📫 Reach me at *himanshurajpatel138@gmail.com*
+
+<div style="display: flex; align-items: center;">
+  <img align="right" alt="Coding" height="180" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+  <div>
+  
+  - 🔭 Building web applications with *MERN Stack*  
+  - 🌱 Currently learning *TypeScript*  
+  - 👨‍💻 View my projects on [GitHub](https://github.com/rajhimanshupatel)  
+  - 💬 Ask me about *React, Node.js, Express & MongoDB*  
+  - 📫 Reach me at *himanshurajpatel138@gmail.com*  
+  
+  </div>
+</div>
+
 
 ## 🌐 Connect With Me
 <div align="left">
