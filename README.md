@@ -71,10 +71,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rajhimanshupatel&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## ✍ Random Dev Quote
+## ✍ Quote I Live By
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <p style="font-size:14px; color:#F70000;"><em>"Carpe diem. Seize the day, boys. Make your lives extraordinary."</em></p>
 </div>
+
 
 ---
 
